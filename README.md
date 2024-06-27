@@ -44,11 +44,14 @@ As seguintes bibliotecas Python foram utilizadas para a análise de dados e visu
 - [Plotly-Express](https://plotly.com/python/plotly-express/)
 
 ## Conclusões
-O projeto ainda não foi concluído, e a conclusão final será atualizada na íntegra assim que o projeto for finalizado por completo.
+Com a análise concluída, pudemos observar diversas coisas a respeito do mercado de restaurantes, mas principalmente das cafeterias da cidade de LA, em resumo vimos que:
+
+As cafeterias em geral possuem apenas um estabelecimento, mesmo as que fazem partes de redes, com exceção de grandes redes como o Starbucks. Isso pode significar que essas grandes redes são muito bem sucedidas na região estudada e pode ser uma boa opção de investimento. Além disso, esses estabelecimentos possuem algo em torno de 25 assentos e este valor não varia muito em relação às cafeterias fazerem parte ou não de redes. Por fim, em relação a localização dentro da cidade, pudemos ver que não impacta na quantidade de assentos, mas pode ser um fator crucial na rentabilidade do novo negócio, uma vez que lugares mais cheios de estabelecimentos podem significar regiões mais povoadas e com maior chances de receber mais visitantes.
+
 
 ## Como utilizar este repositório
 
-Para utilizar, basta clonar o repositório e instalar o arquivo requirements.txt em um ambiente Python. Os scripts são bem documentados e podem ser facilmente adaptados para outras análises de dados. Ao final do projeto, foi montado uma apresentação dos dados em formato PDF, que pode ser acessada clicado no link do projeto, ou acessando por [aqui](https://link-da-apresentação).
+Para utilizar, basta clonar o repositório e instalar o arquivo requirements.txt em um ambiente Python. Os scripts são bem documentados e podem ser facilmente adaptados para outras análises de dados. Ao final do projeto, foi montado uma apresentação dos dados em formato PDF, que pode ser acessada clicado no link do projeto, ou acessando por [aqui](https://drive.google.com/file/d/17yWGDY9r-atj16UU4a4sA4a3uG8YsxCs/view?usp=drive_link).
 
 ## Possíveis melhorias
-
+Tempos depois da entrega do projeto, revisitei as análises e pude observar bons pontos de melhoria a serem implementadas, como uma maior maturidade na descrição dos dados, inserindo conclusões mais elaboradas e profundas a respeito do que foi observado, além disso, é importante estruturar o arquivo ipynb melhor organizado, agrupando as diferentes análises de forma que a leitura fique bem organizada, favorecendo uma compreensão linear das ideias.
