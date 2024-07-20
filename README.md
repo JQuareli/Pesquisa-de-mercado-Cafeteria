@@ -51,7 +51,7 @@ As cafeterias em geral possuem apenas um estabelecimento, mesmo as que fazem par
 
 ## Como utilizar este repositório
 
-Para utilizar, basta clonar o repositório e instalar o arquivo requirements.txt em um ambiente Python. Os scripts são bem documentados e podem ser facilmente adaptados para outras análises de dados. Ao final do projeto, foi montado uma apresentação dos dados em formato PDF, que pode ser acessada clicado no link do projeto, ou acessando por [aqui](https://drive.google.com/file/d/17yWGDY9r-atj16UU4a4sA4a3uG8YsxCs/view?usp=drive_link).
+Para utilizar, basta clonar o repositório e instalar o arquivo requirements.txt em um ambiente Python. Os scripts são bem documentados e podem ser facilmente adaptados para outras análises de dados. Ao final do projeto, foi montado uma apresentação dos dados em formato PDF, que pode ser acessada clicado no link do projeto, ou acessando por [aqui](https://drive.google.com/file/d/17yWGDY9r-atj16UU4a4sA4a3uG8YsxCs/view?usp=sharing).
 
 ## Possíveis melhorias
 Tempos depois da entrega do projeto, revisitei as análises e pude observar bons pontos de melhoria a serem implementadas, como uma maior maturidade na descrição dos dados, inserindo conclusões mais elaboradas e profundas a respeito do que foi observado, além disso, é importante estruturar o arquivo ipynb melhor organizado, agrupando as diferentes análises de forma que a leitura fique bem organizada, favorecendo uma compreensão linear das ideias.
